@@ -43,8 +43,8 @@ Welcome to my GitHub! I’m passionate about software development, open source c
 
 ## 🧰 Featured Projects
 
-- [**Maitexa Marketing Tracker**](https://github.com/yourusername/maitexa-tracker)  
-  📊 _Role-based CRM mobile app for internal marketing team built with Flutter + Firebase_
+- [**Ecommerce Admin Panel**]([https://github.com/yourusername/maitexa-tracker](https://github.com/TGHacademy/batch01-ecommerce-adminpanel))  
+  📊 _Ecommerce Admin Panel using html css react js
 
 - [**Mental Health Chatbot**](https://github.com/yourusername/mental-health-chatbot)  
   💬 _An empathetic chatbot built with Flutter & OpenAI, tailored for emotional support & journaling_
@@ -52,9 +52,6 @@ Welcome to my GitHub! I’m passionate about software development, open source c
 - [**Resume Evaluator**](https://github.com/yourusername/resume-evaluator)  
   📝 _AI-based app that evaluates resumes using Google Gemini API and Flutter Web UI_
 
-<!-- You can pin these or add more projects -->
-
----
 
 ## 📊 GitHub Stats
 
