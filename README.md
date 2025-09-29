@@ -27,10 +27,14 @@ Welcome to my GitHub! I’m passionate about software development, open source c
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Provider](https://img.shields.io/badge/Provider-State%20Management-blue?style=flat)
+![GetX](https://img.shields.io/badge/GetX-State%20Management-brightgreen?style=flat)
+![BLoC](https://img.shields.io/badge/BLoC-State%20Management-blueviolet?style=flat)
+
+
 
 ### ☁️ Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=flat)
 
 
 ### 🧰 Tools & Platforms
