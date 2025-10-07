@@ -50,7 +50,7 @@ Welcome to my GitHub! I’m passionate about software development, open source c
 - [**Ecommerce Admin Panel**]([https://github.com/yourusername/maitexa-tracker](https://github.com/TGHacademy/batch01-ecommerce-adminpanel))  
   📊 _Ecommerce Admin Panel using html css react js
 
-- [**Mental Health Chatbot**](https://github.com/yourusername/mental-health-chatbot](https://github.com/Shadajifrin/mindease)  
+- [**Mental Health Chatbot**](https://github.com/Shadajifrin/mindease)  
   💬 _An empathetic chatbot built with Flutter & OpenAI, tailored for emotional support & journaling_
 
 - [**Resume Evaluator**](https://github.com/yourusername/resume-evaluator)  
